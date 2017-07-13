@@ -1,0 +1,8 @@
+C:\WorkingStorage\Coding\InnGen\InnGen\bin\Debug\InnGen.exe.config
+C:\WorkingStorage\Coding\InnGen\InnGen\bin\Debug\InnGen.exe
+C:\WorkingStorage\Coding\InnGen\InnGen\bin\Debug\InnGen.pdb
+C:\WorkingStorage\Coding\InnGen\InnGen\obj\Debug\InnGen.InnGenForm.resources
+C:\WorkingStorage\Coding\InnGen\InnGen\obj\Debug\InnGen.Properties.Resources.resources
+C:\WorkingStorage\Coding\InnGen\InnGen\obj\Debug\InnGen.csproj.GenerateResource.Cache
+C:\WorkingStorage\Coding\InnGen\InnGen\obj\Debug\InnGen.exe
+C:\WorkingStorage\Coding\InnGen\InnGen\obj\Debug\InnGen.pdb
